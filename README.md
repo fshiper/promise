@@ -1,2 +1,0 @@
-# promise
-Created with CodeSandbox
